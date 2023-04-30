@@ -102,8 +102,7 @@ function App() {
       <footer
   class="bg-neutral-200 text-center dark:bg-neutral-700 lg:text-left">
   <div class="p-4 text-center text-neutral-700 dark:text-neutral-200">
-    Quickly built by
-    <a class="text-neutral-800 dark:text-neutral-400" href="https://twitter.com/StringerSoze"> StringerSoze</a> | Designed based on<a class="text-neutral-800 dark:text-neutral-400" href="https://twitter.com/stonecoldpat0/status/1638254398072582151"> Patrick McCorry's tweet</a>
+    Quickly built and designed based on<a class="text-neutral-800 dark:text-neutral-400" href="https://twitter.com/stonecoldpat0/status/1638254398072582151"> Patrick McCorry's tweet</a>
   </div>
 </footer>
 
