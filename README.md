@@ -1,7 +1,7 @@
 # Description
 ## TL;DR: 
 I build a tiny tool which solved the pain point of one person on Twitter.
-A quick POC, it's a very simple UI that lets you drop in an address and picks up all message sent/from it.
+A quick POC, it's a very simple UI that lets you drop in an address and picks up all message sent to it.
 
 
 ## Context:
